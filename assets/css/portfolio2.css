@@ -47,7 +47,6 @@ ul{
 align-items: center;
 }
 
-
 nav{
 font-size: 15px;
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -93,15 +92,11 @@ overflow: auto;
 overflow: auto;
 }
 
-
 .box-1{
  right:0;
- z-index: 3;
+
 }
-.text{
- position: fixed;
- top: 30px;
-}
+
 .box-2{
  position: relative;
 
@@ -114,11 +109,9 @@ overflow: auto;
 .box-4{
 
  position: relative;
-
 }
 .box-5{
 position: static;
-
 }
 
 .Connect {
